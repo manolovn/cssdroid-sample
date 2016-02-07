@@ -1,8 +1,12 @@
 <resources>
 
-    <style name="H3">
+    <style name="H4">
         <item name="android:background">#64001100</item>
         <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="H3">
+        <item name="android:background">#64001100</item>
     </style>
 
     <style name="Empty">

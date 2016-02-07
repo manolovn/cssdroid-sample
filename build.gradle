@@ -2,10 +2,9 @@
 buildscript {
     repositories {
         jcenter()
-        mavenLocal()
     }
     dependencies {
-        classpath 'com.android.tools.build:gradle:2.0.0-beta1'
+        classpath 'com.android.tools.build:gradle:2.0.0-beta2'
         classpath 'com.manolovn:cssdroid:0.1.0'
     }
 }

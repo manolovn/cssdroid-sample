@@ -12,6 +12,9 @@
 
 .h3 {
     background: opacity(@brand-color, 100);
-    textSize: 18sp;
 }
 
+.h4 {
+    background: opacity(@brand-color, 100);
+    textSize: 18sp;
+}
